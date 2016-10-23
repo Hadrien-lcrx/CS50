@@ -1,4 +1,4 @@
-// Steven Kochan | Programming in C - Chapter 4 (Variables, Data Types, and Arithmetic Expressions)
+// Steven Kochan | Programming in C - Chapter 5 (Program Looping)
 // Hadrien Lacroix - 5_1_triangular.c
 
 // Calculate the eighth triangular number
