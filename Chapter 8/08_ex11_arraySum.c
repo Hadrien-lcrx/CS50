@@ -26,10 +26,11 @@ float arraySum (float array, int counter)
 int main (void)
 {   
     int i, counter;
-    float array[i];
     
     printf  ("How many numbers do you want to enter?");
     scanf   ("%i", &counter);
+    
+    float array[counter];
     
     printf  ("Give me %i floating point values:\n", counter);
     
@@ -38,6 +39,5 @@ int main (void)
         scanf ("%f", &array[i]);
     }
     
-    printf  ("%i", i);
     printf  ("Sum = %f", arraySum(array[i], counter));
 }
