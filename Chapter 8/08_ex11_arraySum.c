@@ -10,8 +10,7 @@
 
 // Calculate sum of numbers in array
 
-float arraySum (int array[counter])
-
+float arraySum (float array, int counter)
 {
     int i, sum = 0;
     
@@ -27,16 +26,17 @@ float arraySum (int array[counter])
 int main (void)
 {   
     int i, counter;
+    float array[i];
     
     printf  ("How many numbers do you want to enter?");
     scanf   ("%i", &counter);
-    
+        
     printf  ("Give me %i floating point values:\n", counter);
     
     for (i = 0; i < counter; i++)
     {
-        scanf ("%f", &arraySum[i]);
+        scanf ("%f", &array[i]);
     }
     
-    printf  ("Sum = %f", arraySum[i]);
+    printf  ("Sum = %f", arraySum(array[i], counter));
 }
