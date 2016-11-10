@@ -1,5 +1,5 @@
 // Steven Kochan | Programming in C - Chapter 3 (Compiling and Running Your First Program)
-// Hadrien Lacroix - 3_1_first.c
+// Hadrien Lacroix - 03_01_first.c
 
 // Writing your first C program
 

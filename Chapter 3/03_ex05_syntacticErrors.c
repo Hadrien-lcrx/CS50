@@ -1,5 +1,5 @@
 // Steven Kochan | Programming in C - Chapter 3 (Compiling and Running Your First Program)
-// Hadrien Lacroix - 3_ex5_syntacticErrors.c
+// Hadrien Lacroix - 03_ex05_syntacticErrors.c
 
 /*Identify the syntactic errors in the following program.Then type in and run the
 corrected program to ensure you have correctly identified all the mistakes.*/

@@ -1,13 +1,14 @@
 // Steven Kochan | Programming in C - Chapter 3 (Compiling and Running Your First Program)
-// Hadrien Lacroix - 3_3_lines.c
+// Hadrien Lacroix - 03_02_more.c
 
-// Adding new lines
+// Writing more
 
 #include <stdio.h>
 
 int main (void)
 {
-    printf  ("Testing...\n..1\n...2\n....3");
+    printf  ("Programming is fun.\n");
+    printf  ("And programming in C is even more fun.\n");
     
     return 0;
 }

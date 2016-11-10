@@ -1,14 +1,16 @@
 // Steven Kochan | Programming in C - Chapter 3 (Compiling and Running Your First Program)
-// Hadrien Lacroix - 3_2_more.c
+// Hadrien Lacroix - 03_04_variables.c
 
-// Writing more
+// Displaying variables
 
 #include <stdio.h>
 
 int main (void)
 {
-    printf  ("Programming is fun.\n");
-    printf  ("And programming in C is even more fun.\n");
+    int sum;
+    
+    sum = 50 + 25;
+    printf  ("The sum of 50 and 25 is %i\n", sum);
     
     return 0;
 }

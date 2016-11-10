@@ -1,5 +1,5 @@
 // Steven Kochan | Programming in C - Chapter 3 (Compiling and Running Your First Program)
-// Hadrien Lacroix - 3_ex3_output.c
+// Hadrien Lacroix - 03_ex03_output.c
 
 // What output would you expect from the following program?
 

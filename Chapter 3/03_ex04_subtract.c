@@ -1,5 +1,5 @@
 // Steven Kochan | Programming in C - Chapter 3 (Compiling and Running Your First Program)
-// Hadrien Lacroix - 3_ex4_subtract.c
+// Hadrien Lacroix - 03_ex04_subtract.c
 
 /*Write a program that subtracts the value 15 from 87 and displays the result,
 together with an appropriate message, at the terminal.*/

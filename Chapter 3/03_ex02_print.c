@@ -1,5 +1,5 @@
 // Steven Kochan | Programming in C - Chapter 3 (Compiling and Running Your First Program)
-// Hadrien Lacroix - 3_ex2_print.c
+// Hadrien Lacroix - 03_ex02_print.c
 
 /*Write a program that prints the following text at the terminal.
     1. In C, lowercase letters are significant.
