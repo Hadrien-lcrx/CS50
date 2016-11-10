@@ -30,7 +30,7 @@ int main (void)
     
     printf  ("How many numbers do you want to enter?");
     scanf   ("%i", &counter);
-        
+    
     printf  ("Give me %i floating point values:\n", counter);
     
     for (i = 0; i < counter; i++)
@@ -38,5 +38,6 @@ int main (void)
         scanf ("%f", &array[i]);
     }
     
+    printf  ("%i", i);
     printf  ("Sum = %f", arraySum(array[i], counter));
 }
