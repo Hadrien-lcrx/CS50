@@ -4,7 +4,7 @@ These are my solutions to the exercises contained in **Steven Kochan’s** *Prog
 * I stopped after Chapter 08
 
 ## Table of content
-* [Chapter 03 — Compiling and Running Your First Program](./Chapter%203)
+* [Chapter 03 — Compiling and Running Your First Program](Chapter_03)
 * Chapter 04 — Variables, Data Types, and Arithmetic Expressions
 * Chapter 05 — Program Looping
 * Chapter 06 — Making Decisions
